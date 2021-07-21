@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:title="Учить"
+        android:icon="@drawable/ic_main"/>
+
+    <item
+        android:id="@+id/dictionaryFragment"
+        android:title="Словарь"
+        android:icon="@drawable/ic_dictionary"/>
+
+    <item
+        android:id="@+id/shopFragment"
+        android:title="Магазин"
+        android:icon="@drawable/ic_shop"/>
+</menu>
