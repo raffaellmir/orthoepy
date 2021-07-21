@@ -1,4 +1,4 @@
-package com.mirov.orthoepy.screens.main
+package com.mirov.orthoepy.ui.main
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

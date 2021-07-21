@@ -1,4 +1,4 @@
-package com.mirov.orthoepy.screens.dictionary
+package com.mirov.orthoepy.ui.dictionary
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
